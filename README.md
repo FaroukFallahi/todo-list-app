@@ -1,7 +1,7 @@
 # Todo-list Project 
 ### TODO 
-[ ] dockerize 
-[ ] docker-compose
+- [ ] dockerize 
+- [ ] docker-compose
 
 
 # In this project we have:
