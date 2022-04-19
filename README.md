@@ -1,4 +1,8 @@
 # Todo-list Project 
+### TODO 
+[ ] dockerize 
+[ ] docker-compose
+
 
 # In this project we have:
 - Golang and `MUX` library as backend web api
